@@ -17,20 +17,20 @@ cmake ..
 
 make
 
-<h2>4. SKapa main och .yaml fil</h2>
+<h2>4. Skapa main och .yaml fil</h2>
 
 touch main.cpp
 
 touch config.yaml
 
-<h2>Öppna filen i visual studio</h2>
+<h2>5.Öppna filen i visual studio</h2>
 
 code main.cpp
 
 code config.yaml
 
 
-<h2>4. Kompilera programmet</h2>
+<h2>6. Kompilera programmet</h2>
 
 g++ main.cpp -o yamlparser -lyaml-cpp
 
