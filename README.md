@@ -1,7 +1,7 @@
 <h1>Program som kan läsa av YAML filer</h1>
 
 
-<h2>1. Aktivera WSL i terminalen i visual code och kör detta kommando. För att installera yaml-cpp bibloteket</h2>
+<h2>1. Aktivera WSL i terminalen i visual code och kör kommandot. För att installera yaml-cpp bibloteket</h2>
 
 sudo apt-get install libyaml-cpp-dev
 
