@@ -34,4 +34,4 @@ code config.yaml
 
 g++ main.cpp -o yamlparser -lyaml-cpp
 
-./yamlparser<
+./yamlparser
